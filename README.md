@@ -19,6 +19,19 @@
 
 * [Site Infoq FR](https://www.infoq.com/fr/)
 
+## Conférences (Vidéos)
+
+* [Java](https://www.youtube.com/user/java)
+
+* [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/featured)
+
+* [Devoxx FR](https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A/feed)
+
+* [Jfokus](https://www.youtube.com/user/javamattias)
+
+* [DevTube](https://dev.tube/)
+
+
 ## Différentes listes organisées de librairies & frameworks Java
 
 * https://java.libhunt.com
