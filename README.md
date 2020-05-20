@@ -44,3 +44,4 @@
 
 * [Article Javaworld - En plusieurs parties](https://www.javaworld.com/article/3215112/java-101-datastructures-and-algorithms-in-java-part-1.html)
 
+* [Merge / Sort en Java](https://www.baeldung.com/java-merge-sort)
