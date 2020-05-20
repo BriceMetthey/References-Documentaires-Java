@@ -32,7 +32,7 @@
 * [DevTube](https://dev.tube/)
 
 
-## Différentes listes organisées de librairies & frameworks Java
+## Différentes listes organisées de librairies & frameworks
 
 * https://java.libhunt.com
 
@@ -40,8 +40,12 @@
 
 * https://github.com/akullpp/awesome-java
 
-## Structures de données & algorithmes (Java)
+## Structures de données & algorithmes
 
 * [Article Javaworld - En plusieurs parties](https://www.javaworld.com/article/3215112/java-101-datastructures-and-algorithms-in-java-part-1.html)
 
 * [Merge / Sort en Java](https://www.baeldung.com/java-merge-sort)
+
+## Cours en ligne
+
+* [Cours en ligne de Java en français](https://www.youtube.com/channel/UCIatmtIm9z5YEWuHbrUMLsw/)
