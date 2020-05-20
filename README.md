@@ -3,7 +3,7 @@
 
 ## Communication
 
-* [https://blogs.oracle.com/java](Blog Oracle)
+* [Blog Oracle Java](https://blogs.oracle.com/java)
 
 * [https://www.voxxed.com/](voxxed)
 
