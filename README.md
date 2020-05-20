@@ -5,16 +5,16 @@
 
 * [Blog Oracle Java](https://blogs.oracle.com/java)
 
-* [https://www.voxxed.com/](voxxed)
+* [Site voxxed](https://www.voxxed.com)
 
-* [https://twitter.com/Oraclejavamag](Twitter Javamag)
+* [Twitter Javamag](https://twitter.com/Oraclejavamag)
 
-* [https://twitter.com/java](Twitter Java)
+* [Twitter Java](https://twitter.com/java)
 
-* [https://developers.redhat.com/](Blog Redhat developers)
+* [Blog Redhat developers](https://developers.redhat.com)
 
-* [https://blog.jetbrains.com/idea/author/trishagee/](Java Annotated Monthly Jetbrains)
+* [Java Annotated Monthly Jetbrains](https://blog.jetbrains.com/idea/author/trishagee/)
 
-* [https://www.infoq.com/](Site Infoq EN)
+* [Site Infoq EN](https://www.infoq.com )
 
-* [https://www.infoq.com/fr/](Site Infoq FR)
+* [Site Infoq FR](https://www.infoq.com/fr/)
