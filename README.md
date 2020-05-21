@@ -15,9 +15,6 @@
 
 * [Java Annotated Monthly Jetbrains](https://blog.jetbrains.com/idea/author/trishagee/)
 
-* [Site Infoq EN](https://www.infoq.com )
-
-* [Site Infoq FR](https://www.infoq.com/fr/)
 
 ## Conférences (Vidéos)
 
