@@ -477,3 +477,6 @@
 * [Gatling](http://gatling.io/)
 * [Jacoco](https://www.eclemma.org/jacoco/)
 
+## Spécifique JUnit
+
+* [Junit 5.6](https://blogs.oracle.com/javamagazine/junit-5-6-makes-testing-easy-with-new-features)
