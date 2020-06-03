@@ -158,6 +158,8 @@
 
 * [JVMs in Containers - Best Practices by David Delabassee](https://www.youtube.com/watch?v=QCpMoQsZTa0&list=PLUQORQEatnJeqn1TQMD_nErSBUj_ZHP8m&index=7)
 
+* [Docker & Java: What I wish I had been told](https://www.youtube.com/watch?v=ckOepeZ7_JI&list=PLUQORQEatnJeqn1TQMD_nErSBUj_ZHP8m&index=9)
+
 * [Java 5, 6, 7, 8, 9, 10, 11: What Did You Miss?](https://www.youtube.com/watch?v=KD8WqjNbJhA)
 
 
