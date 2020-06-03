@@ -26,6 +26,8 @@
 
 * [Jfokus](https://www.youtube.com/user/javamattias)
 
+* [JNation](https://www.youtube.com/channel/UC9DcdLXk_2_bTEwONV3sE6g)
+
 * [DevTube](https://dev.tube/)
 
 
