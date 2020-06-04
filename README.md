@@ -1,6 +1,6 @@
 # Références documentaires sur l'écosystème Java
 
-## Docs techniques de références
+## Doc technique de référence
 
 * [La doc technique officielle API, Tools, Monitoring](https://docs.oracle.com/en/java/javase)
 
