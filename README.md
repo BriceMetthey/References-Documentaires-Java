@@ -1,5 +1,8 @@
 # Références documentaires sur l'écosystème Java
 
+## Docs techniques de références
+
+* [La doc technique officielle API, Tools, Monitoring](https://docs.oracle.com/en/java/javase)
 
 ## Communication
 
@@ -350,8 +353,6 @@
 * [Java 12 - Switch-expressions](https://blog.codefx.org/java/switch-expressions/)
 
 * [Java 12 - Stream Api Collection](https://dzone.com/articles/a-new-jdk12-stream-api-collection-collectorsteeing)
-
-* [Tools and Command Reference](https://docs.oracle.com/en/java/javase/12/tools/tools-and-command-reference.html)
 
 
 ## Java 13
