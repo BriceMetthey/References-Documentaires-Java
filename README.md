@@ -168,6 +168,8 @@
 
 ## Multiprocessing / Parallelisme / Concurrence
 
+* [Java Concurrency and Multithreading - jenkov.com](http://tutorials.jenkov.com/java-concurrency/index.html)
+
 * [Le multiprocessing en Java](https://www.quora.com/How-do-I-implement-multiprocessing-in-Java)
 
 * [Parallel Programming Basics with the Fork/Join Framework](https://www.developer.com/java/data/parallel-programming-basics-with-the-forkjoin-framework-in-java.html)
